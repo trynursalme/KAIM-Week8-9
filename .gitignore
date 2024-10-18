@@ -1,2 +1,3 @@
 .venv
 data
+notebooks/encoded_fraud_data.csv
